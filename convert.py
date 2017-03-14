@@ -1,15 +1,3 @@
-# TimeAt: Timestap at which forecast was made
-# TimeFor: Timestamp for which the forecast was made
-# Location: Weather station
-# Lat,
-# Long,
-# Elevation,
-# Temperature
-# ForecastType
-# WindSpeed
-# WindDirection
-# RelativeHumidity
-# DewPoint
 import csv
 import copy
 
