@@ -16,9 +16,16 @@ mappings = {
   'DewPoint': 'DEWPT'
 }
 
+columns = ['Temperature', 'WindSpeed', 'WindDirection', 'RelativeHumidity', 'DewPoint']
+
 # Generate CSV header
-def genHeader(Target):
-  Target.writerow(mappings.keys())
+def genHeader(file):
+  file.writerow(mappings.keys())
+
+# Generate CSV rows
+def genRows(rows, file):
+  for row in rows:
+    file.writerow(row.values())
 
 # Create a row with relative static values
 def getSectionColumns(lines):
@@ -33,11 +40,29 @@ def getSectionColumns(lines):
       row['TimeAt'] = lines[index + 3]
   return row
 
+# Split columns from Col15
+def arrayCol15(line, rows, rawRow, columnName):
+  pos = 15
+  index = 0
+  while (len(line) > pos):
+    if (len(rows) > index):
+      row = rows[index]
+      row[columnName] = line[pos:pos + 1]
+    else:
+      row = copy.copy(rawRow)
+      row[columnName] = line[pos:pos + 1]
+      rows.append(row)
+    pos += 2
+    index += 1
+
 # Create rows from columns
 def col2Rows(lines, row):
   rows = []
   for line in lines:
-    rows.append(line)
+    for col in columns:
+      if line.startswith(row[col]):
+        arrayCol15(line, rows, row, col)
+        break
   return rows
 
 # Split sections by $$
@@ -49,7 +74,8 @@ def splitSections(line, file):
     lines = []  # clean section lines
     row = getSectionColumns(section)
     rows = col2Rows(section, row)
-    file.writerow(row.values())
+    genRows(rows, file)
+    # file.writerow(row.values())
   else:
     lines.append(line)
 
