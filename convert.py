@@ -24,8 +24,10 @@ def getSectionColumns(lines, file):
   for index, line in enumerate(lines):
     if line.startswith('MIZ'):
       row['Location'] = lines[index + 1]
-      geoLine = lines[index + 2]
-      row['Lat'] = geoLine[0:5]
+      str = lines[index + 2]
+      row['Lat'] = str[0:str.find('N')].strip()
+      row['Long'] = str[str.find('N') + 1:str.find('W')].strip()
+      row['Elevation'] = str[str.find('ELEV.') + 5:str.find('FT')].strip()
       row['TimeAt'] = lines[index + 3]
   file.writerow(row.values())
 
