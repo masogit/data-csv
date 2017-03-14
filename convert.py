@@ -11,6 +11,7 @@
 # RelativeHumidity
 # DewPoint
 import csv
+import copy
 
 mappings = {
   'TimeAt': 'function',
@@ -30,18 +31,32 @@ mappings = {
 def genHeader(Target):
   Target.writerow(mappings.keys())
 
-counter = 1
-def genRow(line, Target):
+def getSectionColumns(lines, file):
+  row = copy.copy(mappings)
+  for index, line in enumerate(lines):
+    if line.startswith('MIZ'):
+      row['Location'] = lines[index + 1]
+      geoLine = lines[index + 2]
+      row['Lat'] = geoLine[0:5]
+      row['TimeAt'] = lines[index + 3]
+  file.writerow(row.values())
+
+sections = [[]]
+def splitSections(line, file):
+  lines = sections[len(sections) - 1]
   if line.startswith('$$'):
-    global counter
-    counter = counter + 1
-    Target.writerow(['--', counter])
+    getSectionColumns(lines, file)
+  else:
+    lines.append(line)
+
 
 Source = open("201503022004.txt", "r")
 with open("data.csv", "w") as f:
   Target = csv.writer(f)
   genHeader(Target)
   for line in Source:
-    genRow(line, Target)
+    line = line.strip('\r\n')
+    splitSections(line, Target)
 
+# print sections
 print 'generate csv done!'
