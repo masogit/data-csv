@@ -18,3 +18,7 @@ RH            62 77 84 80 84 80 74 81 81 81 78 81 78 84 68 59 58 61 69 79 91 95
 WIND DIR       W SW SW  S  S  S SE SE SE  S  W  W  W  W  W  W  W  W NW NW NW  W
 WIND SPD       8  4  3  4  5  8 16 20 19 16 19 18 12  9 16 14 14 13 12 10  6  8
 ```
+
+Run
+
+`python convert.py` to generate `data.csv` file
