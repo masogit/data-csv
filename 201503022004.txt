@@ -1,0 +1,580 @@
+
+958 
+FOUS53 KDTX 022004
+PFMDTX
+
+POINT FORECAST MATRICES
+NATIONAL WEATHER SERVICE DETROIT/PONTIAC MI
+304 PM EST MON MAR 2 2015
+
+MIZ049-030915-
+BAD AXE-HURON MI
+43.79N  82.99W ELEV. 758 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      12          32          20          24          -1
+TEMP          25 19 13 13 16 18 23 26 30 32 35 32 29 24 21 18 17 14  9  4  0 -1
+DEWPT         14 13  9  8 12 13 16 21 25 27 29 27 23 20 12  6  5  3  1 -1 -2 -2
+RH            62 77 84 80 84 80 74 81 81 81 78 81 78 84 68 59 58 61 69 79 91 95
+WIND DIR       W SW SW  S  S  S SE SE SE  S  W  W  W  W  W  W  W  W NW NW NW  W
+WIND SPD       8  4  3  4  5  8 16 20 19 16 19 18 12  9 16 14 14 13 12 10  6  8
+WIND GUST     18                   32 31             19       26               
+CLOUDS        FW FW SC SC B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 B1
+POP 12HR                     30         100          60          20          10
+QPF 12HR                      0        0.25        0.02           0           0
+SNOW 12HR                 00-00           3           T                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+SLEET                               C  C  C                                    
+SNOW                          C  D  D  D  L  S                                 
+SNOWSHWRS                                             S  S  S  S  S  S  S  S   
+WIND CHILL    16 13  7  5  7  8 10 12 17 21 24 21 19 14  7  4  2 -1 -7-12-14-16
+MIN CHILL         9     0     1     5    10    18    11     3    -2   -15   -19
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          14       1    25      18    32      15    28      18    30
+TEMP          12 11  3  3 21 25 26 19 31 29 21 15 27 24 23 18 30 23
+DEWPT         -1  2 -3 -3  8 14 17 18 23 23 18 13 17 19 20 17 19 13
+PWIND DIR         W      SW    SW      SW     W       W     W      SW     W
+WIND CHAR        GN      GN    GN      GN    GN      GN    LT      GN    GN
+AVG CLOUDS    SC SC SC SC B1 B1 B2 B2 B1 B1 B1 SC SC B1 B2 OV B2 B1
+POP 12HR          5       5    10      10    20      10    10      30    30
+SNOWSHWRS                              S  S  S  S        C  C  C  C
+
+$$
+MIZ049-030915-
+PORT HOPE-HURON MI
+44.03N  82.82W ELEV. 588 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      12          32          20          24           1
+TEMP          25 18 13 12 16 18 23 25 29 32 34 32 28 24 22 18 16 14 10  5  1  1
+DEWPT         14 12  9  7 11 13 15 20 24 26 28 26 23 20 13  6  5  3  1  0 -1 -1
+RH            62 77 84 80 80 80 71 81 81 78 78 78 81 84 68 59 61 61 66 79 91 91
+WIND DIR       W  W SW  S  S  S  S SE SE  S  W  W  W  W  W NW  W  W NW  N NW  W
+WIND SPD       9  4  4  5  6  9 19 24 24 17 20 18 12 10 17 14 13 13 13 10  8  9
+WIND GUST     19                                                               
+CLOUDS        FW FW SC SC B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B1 B1 B1 B1 B1
+POP 12HR                     30         100          60          20          20
+QPF 12HR                      0        0.26        0.02           0           0
+SNOW 12HR                 00-00           3           T                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+SLEET                               C  C  C                                    
+SNOW                          C  D  D  D  L  S                                 
+SNOWSHWRS                                             S  S  S  S  S  S  S  S   
+WIND CHILL    15 10  5  2  6  6  8  9 15 20 23 20 18 14  7  4  2 -1 -6-11-14-16
+MIN CHILL         8     0     0     3    10    18    11     3    -1   -13   -18
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          13       2    24      19    32      16    27      18    29
+TEMP          12 11  4  4 20 24 25 19 30 29 21 16 26 25 24 18 29 23
+DEWPT         -1  2 -2 -2  8 14 16 17 23 23 17 14 16 18 20 18 18 13
+PWIND DIR         W      SW    SW      SW     W       W     W      SW     W
+WIND CHAR        GN      GN    GN      GN    GN      GN    GN      GN    BZ
+AVG CLOUDS    SC SC SC SC B1 B1 B2 B2 B1 B1 B1 SC SC B1 B2 OV B2 B1
+POP 12HR         10       5    10      10    20      10    10      30    30
+SNOWSHWRS                              S  S              C  C  C  C
+
+$$
+MIZ053-030915-
+SAGINAW-SAGINAW MI
+43.53N  84.08W ELEV. 662 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      16          33          22          23          -1
+TEMP          28 22 16 16 19 20 24 27 31 33 34 32 29 23 21 18 18 15 10  4 -1 -1
+DEWPT         15 15 11 12 14 15 17 22 26 28 28 26 22 18 11  6  6  3  1 -1 -2 -3
+RH            58 74 80 84 80 81 74 81 81 82 78 78 75 81 65 59 59 58 66 79 95 91
+WIND DIR       W SW  S  S  S SE SE SE  S SW  W  W  W  W  W  W  W  W NW NW  N NW
+WIND SPD       4  2  2  4  5  8 13 16 16 16 17 16 11 10 14 17 13 13 12  9  9  4
+WIND GUST     14                                                               
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 B1
+POP 12HR                     30         100          40          20          10
+QPF 12HR                      0        0.26        0.02           0           0
+SNOW 12HR                 00-00           2           T                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           D  D  S                                    
+SLEET                               C  C  S                                    
+SNOW                       S  C  D  D  D  C  S                                 
+SNOWSHWRS                                             S  S  S  S               
+WIND CHILL             10 10 10 12 15 20 23 23 21 19 13  8  3  4  1 -6-12-18-12
+MIN CHILL        16     7     8     9    15    20    11     3    -2   -15   -19
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          16       2    28      21    35      17    32      21    32
+TEMP          15 13  4  4 24 27 28 21 34 32 22 18 31 29 25 21 32 24
+DEWPT          0  3 -2 -2  9 14 18 19 25 25 19 15 19 21 21 20 19 14
+PWIND DIR         W      SW    SW      SW     W       W    SW      SW     W
+WIND CHAR        LT      LT    GN      GN    GN      LT    LT      GN    GN
+AVG CLOUDS    SC SC SC SC B1 B1 B2 B2 B1 B1 B1 SC SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    10      10    10      30    30
+SNOWSHWRS                                                C  C  C  C
+
+$$
+MIZ061-030915-
+FLINT-GENESEE MI
+42.98N  83.73W ELEV. 754 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      16          35          23          25           0
+TEMP          27 21 16 16 18 19 25 28 33 35 37 34 31 25 21 20 17 14  8  3  0  0
+DEWPT         16 14 11 11 13 14 16 21 26 29 29 26 22 18 13  7  6  3  0 -2 -4 -4
+RH            63 74 80 80 80 80 68 75 75 78 72 72 69 74 71 56 61 61 69 79 83 83
+WIND DIR       W  W  S  S  S SE SE SE  S SW  W  W  W  W  W  W  W  W NW NW NW NW
+WIND SPD       4  1  1  3  5  8 13 16 17 16 17 14 12 10 13 16 13 13 13 10  8  6
+WIND GUST     14                                                               
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 B1
+POP 12HR                     30         100          40          10          10
+QPF 12HR                      0        0.29        0.02           0           0
+SNOW 12HR                 00-00           3       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           D  D  S                                    
+RAIN                                D  D                                       
+SLEET                         C  C  D  D  S                                    
+SNOW                          C  D  D  D  C  S                                 
+WIND CHILL             10  9  9 12 16 22 25 27 25 22 15  8  5  3 -1 -8-14-16-14
+MIN CHILL        18     8     8     9    16    23    14     4    -3   -16   -17
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          16       1    27      20    35      17    33      20    33
+TEMP          15 13  4  3 24 23 26 21 34 33 23 18 32 27 23 20 33 26
+DEWPT          1  3 -2 -4  9 13 17 18 25 25 20 15 19 20 21 20 21 15
+PWIND DIR         W      SW    SW      SW     W       W    SW      SW     W
+WIND CHAR        LT      LT    GN      GN    LT      LT    LT      LT    GN
+AVG CLOUDS    SC SC SC SC SC B1 B1 B2 B2 B1 B1 SC SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    10      10    10      30    30
+SNOWSHWRS                              S  S  S  S        C  C  C  C
+
+$$
+MIZ063-030915-
+PORT HURON-ST CLAIR MI
+42.92N  82.53W ELEV. 644 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      13          35          24          28           2
+TEMP          27 21 15 13 16 17 24 27 32 35 37 37 33 28 26 24 22 18 12  7  2  2
+DEWPT         14 14 10  9 12 13 16 22 27 30 31 28 24 22 15  9  7  4  1 -3 -6 -5
+RH            57 74 80 84 84 84 71 81 81 82 79 70 69 78 62 52 52 53 60 63 68 72
+WIND DIR       W  W  S  S  S SE SE SE  S  S SW  W  W  W  W  W  W  W NW NW  N NW
+WIND SPD       4  2  1  3  4  6 13 17 19 17 16 13 13  6 12 14 12 12 13 12  8  3
+WIND GUST     17                                              23               
+CLOUDS        FW FW SC SC B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1
+POP 12HR                     30         100          60          10          10
+QPF 12HR                      0        0.29        0.02           0           0
+SNOW 12HR                 00-00           3       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           D  D  C                                    
+RAIN                                D  D  L  S                                 
+SLEET                         C  C  D  D  C                                    
+SNOW                          C  D  D  D  L  S                                 
+WIND CHILL    21           8  7 11 14 20 25 28 28 23 21 15 11 10  5 -4-10-13 -6
+MIN CHILL        15     4     4     7    14    25    18     7     2   -12   -17
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          16       0    24      18    34      17    31      18    33
+TEMP          15 11  4  1 22 18 19 20 33 32 25 18 30 22 20 20 33 25
+DEWPT          1  1 -2 -5  7 11 15 16 23 25 22 16 17 18 19 19 21 15
+PWIND DIR        NW       W    SW      SW    SW       W     W      SW     W
+WIND CHAR        LT      LT    GN      GN    GN      LT    LT      LT    GN
+AVG CLOUDS    SC SC SC SC SC B1 B1 B2 B2 B1 B1 SC SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    10      20    10      30    30
+SNOWSHWRS                              S  S  S  S        C  C  C  C
+
+$$
+MIZ068-030915-
+HOWELL-LIVINGSTON MI
+42.63N  83.98W ELEV. 939 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      17          35          23          27           1
+TEMP          28 22 18 17 19 19 23 27 32 35 35 33 30 27 22 21 19 14  8  3  1  1
+DEWPT         16 15 13 13 14 15 17 22 27 30 30 27 24 19 14  9  6  3  0 -1 -3 -3
+RH            60 74 80 84 80 84 77 81 81 82 82 78 78 71 71 59 56 61 69 83 83 83
+WIND DIR       W  W  S  S  S SE SE SE  S SW  W  W  W  W  W  W  W  W NW NW NW NW
+WIND SPD       4  1  1  3  5  9 14 17 17 17 17 13 12 10 13 16 13 13 13 12  9  8
+WIND GUST     14                                                               
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1
+POP 12HR                     30         100          40          10          10
+QPF 12HR                      0        0.33        0.02           0           0
+SNOW 12HR                 00-00           2       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           D  D  C                                    
+RAIN                                D  D  C  S                                 
+SLEET                         C  C  D  D  C                                    
+SNOW                          C  D  D  D  C  S                                 
+WIND CHILL                10  8 10 14 21 25 25 24 20 16 10  8  6 -1 -9-15-15-14
+MIN CHILL        19    10     8     8    15    23    14     5    -3   -16   -17
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          16       0    26      19    35      18    33      21    33
+TEMP          15 13  4  2 23 23 23 20 33 33 24 18 32 29 23 22 33 26
+DEWPT          2  3 -2 -4  7 12 15 17 24 25 21 16 19 21 22 21 21 15
+PWIND DIR        NW      SW    SW      SW    SW       W    SW      SW     W
+WIND CHAR        LT      LT    GN      GN    GN      LT    LT      LT    GN
+AVG CLOUDS    B1 SC SC SC SC SC B1 B2 B1 B1 B1 SC SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    10      10    10      30    30
+SNOWSHWRS                                    S  S        C  C  C  C
+
+$$
+MIZ069-030915-
+PONTIAC-OAKLAND MI
+42.67N  83.42W ELEV. 969 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      17          35          24          28           3
+TEMP          29 23 18 17 19 19 24 28 32 35 36 35 31 28 24 23 21 17 12  7  4  3
+DEWPT         15 14 12 13 14 14 16 21 26 30 30 27 23 20 14  8  6  3  0 -2 -4 -4
+RH            55 68 77 84 80 80 71 75 78 82 79 72 72 71 65 52 52 53 58 66 68 72
+WIND DIR       W NW  S  S  S SE SE SE  S SW  W  W  W  W  W  W  W  W NW NW NW NW
+WIND SPD       3  1  1  2  4  6 13 14 16 16 16 13 13 10 13 14 13 13 13 12  8  8
+WIND GUST     14                   25                      25                  
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1
+POP 12HR                     30         100          40          10          10
+QPF 12HR                      0        0.33        0.02           0           0
+SNOW 12HR                 00-00           2       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           D  D  C                                    
+RAIN                                D  D  C  S                                 
+SLEET                         C  C  D  D  C                                    
+SNOW                          C  D  D  D  C  S                                 
+WIND CHILL                12  9 11 16 22 26 26 26 21 18 12 10  9  3 -4-10-11-11
+MIN CHILL        19     9     8     8    16    24    16     7    -1   -14   -15
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          16       1    25      18    35      19    33      20    34
+TEMP          15 13  5  3 22 22 22 20 33 33 25 19 32 28 22 22 34 26
+DEWPT          2  3 -2 -4  7 11 15 17 24 24 22 16 18 19 20 20 21 15
+PWIND DIR        NW       W    SW      SW    SW       W     W      SW     W
+WIND CHAR        LT      LT    GN      GN    LT      LT    LT      LT    GN
+AVG CLOUDS    B1 SC SC SC SC SC B1 B2 B2 B1 B1 SC SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    10      20    10      30    30
+SNOWSHWRS                                    S  S        C  C  C  C
+
+$$
+MIZ070-030915-
+MT. CLEMENS-MACOMB MI
+42.61N  82.83W ELEV. 577 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      15          36          24          29           4
+TEMP          30 23 17 15 17 18 25 28 33 36 37 37 33 29 27 25 22 19 13  9  5  4
+DEWPT         15 14 12 11 13 14 17 22 28 31 31 29 25 21 16 10  7  4  1 -2 -4 -4
+RH            53 68 80 84 84 84 71 78 82 82 79 72 72 72 63 52 52 51 58 60 65 68
+WIND DIR       W  W  S  S SE SE SE SE  S  S SW  W  W  W  W  W  W  W NW NW NW  N
+WIND SPD       5  2  1  3  4  6 14 17 19 16 14 12 12  8 12 13 12 12 13 12  9  5
+WIND GUST                          27                                          
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1
+POP 12HR                     30         100          60          10          10
+QPF 12HR                      0        0.32        0.02           0           0
+SNOW 12HR                 00-00           2       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           D  D  L                                    
+RAIN                                D  D  L  S                                 
+SLEET                         C  C  D  D  L                                    
+SNOW                          C  D  D  D  L  S                                 
+WIND CHILL    24          10  9 12 16 21 26 28 28 24 21 16 13 10  6 -2 -9-11 -8
+MIN CHILL        16     7     7     8    16    26    18     9     3   -11   -14
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          17       1    25      18    34      19    32      20    34
+TEMP          16 13  5  3 22 20 21 20 33 33 27 19 32 25 21 22 34 25
+DEWPT          2  2 -2 -3  7 11 14 17 23 25 23 17 17 19 20 20 21 15
+PWIND DIR        NW       W    SW      SW    SW       W     W      SW     W
+WIND CHAR        LT      LT    GN      GN    GN      LT    LT      LT    GN
+AVG CLOUDS    SC SC SC SC SC B1 B1 B2 B2 B1 B1 SC SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    10      10    10      30    30
+SNOWSHWRS                                    S  S        C  C  C  C
+
+$$
+MIZ075-030915-
+YPSILANTI-WASHTENAW MI
+42.23N  83.53W ELEV. 708 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      18          36          23          28           3
+TEMP          29 23 19 18 19 19 24 28 33 36 36 34 31 28 25 25 23 17 11  6  3  3
+DEWPT         16 15 14 14 15 15 17 22 28 31 31 28 24 20 15  9  7  4  1 -1 -3 -3
+RH            58 71 80 84 84 84 74 78 82 82 82 78 75 71 65 50 50 56 63 72 75 75
+WIND DIR       W NW  S  S SE SE SE SE  S SW  W  W  W NW  W  W  W  W NW NW NW NW
+WIND SPD       3  1  0  3  4  8 14 14 14 17 16 14 13 11 13 14 12 13 14 12  9  6
+WIND GUST     13                                           25                  
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1
+POP 12HR                     30         100          40          10          10
+QPF 12HR                      0        0.33        0.02           0           0
+SNOW 12HR                 00-00           1       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           C                                          
+RAIN                                D  D  C  S                                 
+SLEET                         C  C                                             
+SNOW                          C  D        C  S                                 
+WIND CHILL                12  9 11 16 23 25 26 25 21 18 13 12 11  3 -5-11-12-10
+MIN CHILL        21    11     8     8    17    23    16     8     0   -14   -15
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          17      -1    24      17    35      19    33      20    35
+TEMP          16 14  4  1 21 23 21 19 33 33 25 19 32 30 24 22 34 27
+DEWPT          3  4 -2 -5  7 11 14 16 24 25 22 17 19 21 22 21 22 16
+PWIND DIR         W      SW    SW      SW    SW       W    SW      SW     W
+WIND CHAR        LT      LT    GN      GN    LT      LT    LT      LT    GN
+AVG CLOUDS    B1 SC SC SC SC SC B1 B1 B1 B1 B1 SC SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    10      10    10      30    20
+SNOWSHWRS                                                C  C  S  S
+
+$$
+MIZ076-030915-
+ROMULUS-WAYNE MI
+42.23N  83.33W ELEV. 629 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      17          36          25          30           6
+TEMP          31 25 19 17 19 19 25 29 34 36 37 36 32 30 28 27 25 20 15 10  7  7
+DEWPT         16 16 13 12 14 14 17 23 29 32 31 29 25 22 16 10  8  6  3  0 -2 -2
+RH            53 68 77 80 80 80 71 78 82 85 79 75 75 72 60 48 48 54 58 63 66 66
+WIND DIR       W  W  S SE SE SE SE SE  S SW SW  W  W  W  W  W  W  W NW NW NW NW
+WIND SPD       5  3  2  2  4  6 13 16 16 16 14 13 12  9 11 13 11 12 13 12  8  5
+WIND GUST     17                                           24 21               
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1
+POP 12HR                     30         100          40          10          10
+QPF 12HR                      0        0.32        0.02           0           0
+SNOW 12HR                 00-00           1       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           C                                          
+RAIN                                D  D  C  S                                 
+SLEET                         C  C                                             
+SNOW                          C  D        C  S                                 
+WIND CHILL    25          12 10 13 17 24 27 28 27 23 22 18 16 14  8  0 -6 -7 -5
+MIN CHILL        17     9     8     9    17    26    18    13     5    -8    -9
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          18       1    25      19    35      21    34      22    35
+TEMP          17 15  6  3 20 24 22 20 33 34 28 21 32 31 24 24 35 28
+DEWPT          3  4  0 -2  7 12 14 17 24 25 23 18 18 20 21 21 23 17
+PWIND DIR         W       W    SW      SW    SW       W     W      SW     W
+WIND CHAR        GN      LT    GN      GN    GN      LT    LT      LT    GN
+AVG CLOUDS    B1 SC SC SC SC SC B1 B1 B1 B1 B1 SC SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    10      10    10      30    20
+SNOWSHWRS                              S  S  S  S        C  C  S  S
+
+$$
+MIZ076-030915-
+DETROIT-WAYNE MI
+42.43N  83.02W ELEV. 619 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      16          36          25          31           6
+TEMP          30 24 19 16 19 20 25 28 33 36 37 37 33 31 29 27 25 21 16 11  7  6
+DEWPT         16 15 13 12 13 15 17 23 29 32 31 29 25 22 17 12  9  6  3  0 -2 -2
+RH            55 68 77 84 77 81 71 81 85 85 79 72 72 69 60 53 50 52 56 60 66 69
+WIND DIR       W  W  S  S  S SE SE SE  S SW SW  W  W  W  W  W  W  W NW NW NW  N
+WIND SPD       9  5  4  3  4  6 14 18 19 17 16 13 12  6 12 13 12 11 13 13  9  6
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1
+POP 12HR                     30         100          40          10          10
+QPF 12HR                      0        0.31        0.02           0           0
+SNOW 12HR                 00-00           2       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           C                                          
+RAIN                                D  D  C  S                                 
+SLEET                         C  C                                             
+SNOW                          C  D        C  S                                 
+WIND CHILL    22 18 12 10 12 11 12 15 22 26 28 28 24 24 19 16 13  9  1 -6 -8 -7
+MIN CHILL        17     9     9    10    17    26    22    15     8    -7    -9
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          17       3    24      19    34      22    33      22    34
+TEMP          16 15  7  4 20 24 23 21 32 34 29 22 32 30 23 24 34 29
+DEWPT          3  3  0 -2  6 11 14 16 23 24 23 18 17 18 20 20 21 16
+PWIND DIR        NW       W    SW      SW    SW       W     W      SW     W
+WIND CHAR        GN      GN    GN      GN    GN      GN    GN      GN    GN
+AVG CLOUDS    B1 SC SC SC SC SC B1 B1 B1 B1 B1 B1 SC B1 B2 B2 B2 B1
+POP 12HR          5       5     5      10    20      20    10      30    30
+SNOWSHWRS                              S  S  S  S        C  C  C  C
+
+$$
+MIZ082-030915-
+ADRIAN-LENAWEE MI
+41.87N  84.07W ELEV. 794 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      17          36          23          29           4
+TEMP          28 23 18 17 18 18 24 29 34 36 35 34 31 29 26 25 23 17 11  7  4  4
+DEWPT         17 16 14 13 14 15 18 23 29 32 31 28 24 21 15  9  8  5  3  1 -1 -1
+RH            63 74 84 84 84 88 77 78 82 85 85 78 75 72 62 50 52 58 69 76 79 79
+WIND DIR       W NW  S  S SE SE SE SE  S SW  W  W  W NW NW  W  W  W NW NW NW NW
+WIND SPD       3  1  1  3  4  6 14 14 14 17 16 14 12 10 12 14 12 12 13 13  8  5
+WIND GUST                                            20    26                  
+CLOUDS        FW SC SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1
+POP 12HR                     30         100          40          10          10
+QPF 12HR                      0        0.33        0.02           0           0
+SNOW 12HR                 00-00           1       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           C                                          
+RAIN                                D  D  C  S                                 
+SLEET                         C  C                                             
+SNOW                       S  C  D                                             
+WIND CHILL                10  9 11 17 24 26 25 24 21 20 15 12 11  3 -5-11-10 -8
+MIN CHILL        19    10     7     8    17    22    16    10     1   -13   -14
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          16      -3    23      16    35      18    33      21    35
+TEMP          16 13  2 -1 19 22 18 18 33 32 24 19 32 30 24 22 35 28
+DEWPT          3  4 -3 -6  7 10 13 16 24 25 22 17 21 22 22 21 24 17
+PWIND DIR         W       W    SW      SW    SW       W    SW      SW     W
+WIND CHAR        LT      LT    GN      GN    GN      LT    LT      LT    GN
+AVG CLOUDS    B1 SC SC SC SC SC B1 B1 B1 B1 B1 B1 B1 B1 B2 B1 B1 B1
+POP 12HR          5       5     5      10    10      10    10      20    20
+SNOWSHWRS                                                S  S  S  S
+
+$$
+MIZ083-030915-
+MONROE-MONROE MI
+41.94N  83.43W ELEV. 610 FT
+304 PM EST MON MAR 2 2015
+
+DATE           03/02/15      TUE 03/03/15            WED 03/04/15            THU
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      17          37          25          30           6
+TEMP          29 24 18 17 19 19 24 29 35 37 37 35 32 30 28 27 26 20 14 10  6  6
+DEWPT         17 17 14 13 15 15 19 24 30 33 32 30 26 22 17 11  9  7  4  2  0 -1
+RH            60 74 84 84 84 84 81 81 82 85 82 82 78 72 63 50 48 56 64 69 76 72
+WIND DIR       W  W  S SE SE SE SE SE  S SW SW  W  W NW  W  W  W  W NW NW NW NW
+WIND SPD       5  2  1  3  3  6 16 16 16 17 16 14 12  8 12 13 12 12 14 13  8  6
+WIND GUST     16                                           24                  
+CLOUDS        FW FW SC B1 B2 OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1
+POP 12HR                     30         100          40          10          10
+QPF 12HR                      0        0.31        0.02           0           0
+SNOW 12HR                 00-00           1       00-00                        
+DRIZZLE                                   O  O                                 
+FLURRIES                                        C  C                           
+FRZG RAIN                           C                                          
+RAIN                                D  D  C  S                                 
+SLEET                         C  C                                             
+SNOW                          C  D                                             
+WIND CHILL    23          13 11 11 18 25 27 27 26 22 22 18 15 15  8 -1 -7 -8 -6
+MIN CHILL        17     8     8     8    18    25    20    14     5   -11   -11
+
+
+DATE           03/05 FRI 03/06/15 SAT 03/07/15 SUN 03/08/15 MON 03/09/15
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          17      -2    23      17    35      20    33      22    35
+TEMP          17 15  3  0 19 23 19 20 33 33 26 20 31 30 24 23 35 28
+DEWPT          4  5 -1 -4  7 11 13 17 24 25 23 18 19 21 22 22 24 18
+PWIND DIR         W       W    SW      SW    SW       W    SW      SW     W
+WIND CHAR        GN      LT    GN      GN    GN      LT    LT      LT    GN
+AVG CLOUDS    B1 SC SC SC SC SC B1 B1 B1 B1 B1 B1 SC B1 B2 B1 B1 B1
+POP 12HR          5       5     5       5    10      10    10      30    20
+SNOWSHWRS                              S  S              C  C  S  S
+
+$$
+
+JVC
